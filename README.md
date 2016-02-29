@@ -10,5 +10,5 @@
 ## Content
 
 - assignments
-- homeworks
+- solutions
 - presentation
