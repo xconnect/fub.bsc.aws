@@ -9,6 +9,6 @@
 
 ## Content
 
-- assignments
-- solutions
-- presentation
+- [assignments](https://github.com/xconnect/fub.bsc.aws/tree/master/assignments)
+- [solutions](https://github.com/xconnect/fub.bsc.aws/tree/master/solutions)
+- [presentation](https://github.com/xconnect/fub.bsc.aws/tree/master/presentation)
