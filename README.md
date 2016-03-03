@@ -4,7 +4,7 @@
 
 # Anwendungssysteme
 
-- Lecturer: L. Prechelt
+- Lecturer: Prof. Dr. L. Prechelt
 - Semester: Winter 2009/2010
 
 ## Content
